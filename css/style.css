@@ -1,0 +1,14 @@
+/* Your custom styles */
+.cpulogo{
+    height: 50px;
+    width: 50px;
+}
+.cpulanding{
+    background: url("https://res.cloudinary.com/startupprojectventuresph/image/upload/v1606037319/BackgroundImg/back_hfg2yv.jpg")no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cpunav{
+    background-color: #E48A2A!important;
+}
